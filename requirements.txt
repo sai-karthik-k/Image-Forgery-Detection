@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+Pillow
+numpy
+joblib
+scikit-image
+matplotlib
+scikit-learn     # for metrics or preprocessing
+opencv-python    # if using OpenCV for image handling
+gdown
